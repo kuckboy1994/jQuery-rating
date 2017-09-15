@@ -1,6 +1,6 @@
 /* @charset "UTF-8" */
 /*
- * @author 山超<shanchao@myhexin.com>
+ * @author 山超<279274720@qq.com>
  * @create 2017-06-20
  */
 (function ($) {
